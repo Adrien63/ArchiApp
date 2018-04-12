@@ -1,0 +1,9 @@
+com\polytech\persistence\InMemoryStoryRepository.class
+com\polytech\persistence\StoryRepository.class
+com\polytech\services\Story.class
+com\polytech\config\AppConfig.class
+com\polytech\services\FeedService.class
+com\polytech\web\FeedController.class
+com\polytech\persistence\JdbcStoryRepository.class
+com\polytech\services\PublicationService.class
+com\polytech\AppRunner.class
